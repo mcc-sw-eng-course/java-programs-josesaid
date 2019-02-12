@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" time="0.035" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" time="0.032" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.3.4"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -62,11 +62,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testSaveRecordsInFile" time="0.031"/>
+  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testSaveRecordsInFile" time="0.03"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testCreateRecord" time="0"/>
-  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testLoadRecordsFromFile" time="0.001"/>
+  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testLoadRecordsFromFile" time="0"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testLookUpRecordFromFile" time="0"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testSearchNotExistingRecordFromFile" time="0"/>
-  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testLoadRecordsFromNotExistingFile" time="0.001"/>
+  <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testLoadRecordsFromNotExistingFile" time="0"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test" name="testSearchRecordFromFile" time="0.002"/>
 </testsuite>

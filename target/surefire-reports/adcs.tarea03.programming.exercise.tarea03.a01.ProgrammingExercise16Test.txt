@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: adcs.tarea03.programming.exercise.tarea03.a01.ProgrammingExercise16Test
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 sec

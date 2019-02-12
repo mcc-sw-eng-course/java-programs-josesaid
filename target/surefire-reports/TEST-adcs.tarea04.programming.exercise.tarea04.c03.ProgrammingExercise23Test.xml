@@ -62,8 +62,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadFromFile" time="0.004"/>
-  <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadFromNotExistingFile" time="0.001"/>
+  <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadFromFile" time="0.003"/>
+  <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadFromNotExistingFile" time="0.002"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadEmptyListFromFile" time="0.004"/>
   <testcase classname="adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test" name="testReadWrongTextFormatFromFile" time="0.004"/>
 </testsuite>
