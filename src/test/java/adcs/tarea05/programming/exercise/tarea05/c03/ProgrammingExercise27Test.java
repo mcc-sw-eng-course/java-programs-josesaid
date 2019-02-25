@@ -1,17 +1,21 @@
-package adcs.tarea05.programming.exercise.tarea05.b02;
+package adcs.tarea05.programming.exercise.tarea05.c03;
 
 import adcs.tarea05.programming.exercise.a01.FilesystemPowerList;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.io.FileNotFoundException;
+
 
 /**
- * This class is the  Programming Exercise 26 used to test the
- * Programming Exercise 26
+ * This class is the  Programming Exercise 27 used to test the
+ * Programming Exercise 27
  */
-public class ProgrammingExercise26Test {
+public class ProgrammingExercise27Test {
     private static final String FIVE_RECORDS_FILE = "C:\\temp\\fiveRecords.txt";
+    private static final String SMALL_FILE = "C:\\temp\\smallFile.txt";
+    private static final String NO_EXISTING_FILE = "C:\\temp\\noExistingFile.txt";
     private static final String EMPTY_FILENAME = "";
     private static final String NULL_FILENAME = null;
     private static final String NOT_VALID_FILENAME = "some>>Name$%Wrong.txt";
@@ -23,6 +27,31 @@ public class ProgrammingExercise26Test {
     @Before
     public void setup(){
         myFilesystemPowerList = new FilesystemPowerList();
+    }
+
+    @Test(expected = FileNotFoundException.class)
+    public void testSetInputDataWithNonExistingFile() throws Exception {
+        myFilesystemPowerList.setInputData(NO_EXISTING_FILE);
+    }
+
+    @Test(expected = Exception.class)
+    public void testSetInputDataWithEmptyFileName() throws Exception {
+        myFilesystemPowerList.setInputData(EMPTY_FILENAME);
+    }
+
+    @Test(expected = NullPointerException.class)
+    public void testSetInputDataWithNullFileName() throws Exception {
+        myFilesystemPowerList.setInputData(NULL_FILENAME);
+    }
+
+    @Test(expected = Exception.class)
+    public void testSetInputDataWithNotValidFileName() throws Exception {
+        myFilesystemPowerList.setInputData(NOT_VALID_FILENAME);
+    }
+
+    @Test(expected = Exception.class)
+    public void testSetInputDataWithLongFileName() throws Exception {
+        myFilesystemPowerList.setInputData(LONG_FILENAME);
     }
 
     @Test(expected = Exception.class)
@@ -46,6 +75,18 @@ public class ProgrammingExercise26Test {
     }
 
     @Test
+    public void testSetInputData() throws Exception {
+        myFilesystemPowerList.setInputData(SMALL_FILE);
+    }
+
+    @Test
+    public void testExecuteMergeSort() throws Exception {
+        myFilesystemPowerList.setInputData(FIVE_RECORDS_FILE);
+        myFilesystemPowerList.executeMergeSort();
+        myFilesystemPowerList.setOutputData(VALID_FILENAME);
+    }
+
+    @Test
     public void testSetOutputData() throws Exception {
         myFilesystemPowerList.setInputData(FIVE_RECORDS_FILE);
         myFilesystemPowerList.setOutputData(VALID_FILENAME);
@@ -55,4 +96,5 @@ public class ProgrammingExercise26Test {
     public void cleanUp(){
         myFilesystemPowerList.clear();
     }
+
 }
