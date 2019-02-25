@@ -15,6 +15,7 @@ public class ProgrammingExercise26Test {
     private static final String NULL_FILENAME = null;
     private static final String NOT_VALID_FILENAME = "some>>Name$%Wrong.txt";
     private static final String LONG_FILENAME = "aaaaabbbbbcccccdddddeeeeefffffggggg.txt";
+    private static final String VALID_FILENAME = "C:\\temp\\outputFileName.txt";
 
     private FilesystemPowerList myFilesystemPowerList;
 
@@ -30,17 +31,22 @@ public class ProgrammingExercise26Test {
 
     @Test(expected = NullPointerException.class)
     public void testSetOutputDataWithNullFileName() throws Exception {
-        myFilesystemPowerList.setInputData(NULL_FILENAME);
+        myFilesystemPowerList.setOutputData(NULL_FILENAME);
     }
 
     @Test(expected = Exception.class)
     public void testSetOutputDataWithNotValidFileName() throws Exception {
-        myFilesystemPowerList.setInputData(NOT_VALID_FILENAME);
+        myFilesystemPowerList.setOutputData(NOT_VALID_FILENAME);
     }
 
     @Test(expected = Exception.class)
     public void testSetOutputDataWithLongFileName() throws Exception {
-        myFilesystemPowerList.setInputData(LONG_FILENAME);
+        myFilesystemPowerList.setOutputData(LONG_FILENAME);
+    }
+
+    @Test
+    public void testSetOutputData() throws Exception {
+        myFilesystemPowerList.setOutputData(VALID_FILENAME);
     }
 
     @After
