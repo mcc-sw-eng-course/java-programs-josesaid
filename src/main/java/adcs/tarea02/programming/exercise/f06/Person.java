@@ -9,7 +9,7 @@ public class Person {
     public Person(String name, String address, String phone, String email) {
         this.name = name;
         this.address = address;
-        this.phone = phone;
+        this.phone = phone.trim().replace("\"", "");
         this.email = email;
     }
 
