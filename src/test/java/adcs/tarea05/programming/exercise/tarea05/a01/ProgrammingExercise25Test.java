@@ -53,6 +53,11 @@ public class ProgrammingExercise25Test {
         myFilesystemPowerList.setInputData(LONG_FILENAME);
     }
 
+    @Test
+    public void testSetInputData() throws Exception {
+        myFilesystemPowerList.setInputData(SMALL_FILE);
+    }
+
     @After
     public void cleanUp(){
         myFilesystemPowerList.clear();
