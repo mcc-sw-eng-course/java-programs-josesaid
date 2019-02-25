@@ -97,6 +97,7 @@ public class MyPowerList<T> extends ArrayList {
             result.add(new Person(removeBlankSpaces(information[0]), removeBlankSpaces(information[1]), removeBlankSpaces(information[2]), removeBlankSpaces(information[3]) ));
         }
         bufferedReader.close();
+        this.addAll(result);
         return result;
     }
     private String removeBlankSpaces(String element){
