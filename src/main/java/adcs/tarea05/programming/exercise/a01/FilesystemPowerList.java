@@ -41,4 +41,27 @@ public class FilesystemPowerList extends MyPowerList<String> {
         System.out.println("Number of people found: " + people.size());
     }
 
+    public void setOutputData(String outputFileName) throws Exception {
+        File file = new File(outputFileName);
+        String fileName = file.getName();
+
+        if(fileName.length()==0){
+            throw new Exception("The length of file can not be zero");
+        }
+
+        if(fileName.length()<=4){
+            throw new Exception("The filename must be at least 5 chars (A.TXT) e.g.");
+        }
+        if(fileName == null){
+            throw new NullPointerException("The file: " + fileName+" is null");
+        }
+        if(!fileName.matches(VALID_FILENAME_REGEX)){
+            throw new Exception("The filename: "  + fileName + " <<-- is not valid");
+        }
+        if(fileName.length() > 30){
+            throw new Exception("The length of the filename must be shorter than 30. Currently it has: " + fileName.length());
+        }
+
+        saveToFile(outputFileName);
+    }
 }
