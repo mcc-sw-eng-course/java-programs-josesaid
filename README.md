@@ -9,7 +9,7 @@
 ![Hi Welcome!](https://media.licdn.com/dms/image/C5603AQFuzyxDcgtVDA/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=je_7Hee8iktvST7FB1vTbM2yw_manVPspO2Vv1vlFrQ)
 
 
-Hi! This is a **Java Project** created on **IntelliJ**. Please feel free to download the code and play it with.
+Hi! This is a **Java Project** created on **IntelliJ**. Please feel free to download the code and play with it.
 
 # File Structure
 
