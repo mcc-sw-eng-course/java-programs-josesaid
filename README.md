@@ -3,8 +3,8 @@
 - Student = Jose Said Olano Garcia
 - Email = josesaid@gmail.com
 - Version = 0.6
-- Code Last Update = 02/24/2019
-- Review branch = develop
+- Code Last Update = 03/03/2019
+- Review branch = develop/master
 
 ![Hi Welcome!](https://media.licdn.com/dms/image/C5603AQFuzyxDcgtVDA/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=je_7Hee8iktvST7FB1vTbM2yw_manVPspO2Vv1vlFrQ)
 
