@@ -3,6 +3,8 @@ package adcs.tarea03.programming.exercise.tarea03.e05;
 import adcs.tarea03.programming.exercise.e05.ProgrammingExercise20;
 import org.junit.Test;
 import java.util.Date;
+
+import static junit.framework.TestCase.assertEquals;
 import static junit.framework.TestCase.assertTrue;
 
 public class ProgrammingExercise20Test {
@@ -23,8 +25,8 @@ public class ProgrammingExercise20Test {
     @Test
     public void testGetCurrentMonthNumber(){
         int month = exercise20.getCurrentMonthNumber();
-        int february = 1;
-        assertTrue(month == february);
+        int february = 2;
+        assertEquals(month,february);
     }
 
     @Test
