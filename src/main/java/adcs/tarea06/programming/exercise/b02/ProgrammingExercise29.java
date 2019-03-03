@@ -1,4 +1,4 @@
-package adcs.tarea06.programming.exercise.a01;
+package adcs.tarea06.programming.exercise.b02;
 
 import adcs.tarea05.programming.exercise.a01.FilesystemPowerList;
 

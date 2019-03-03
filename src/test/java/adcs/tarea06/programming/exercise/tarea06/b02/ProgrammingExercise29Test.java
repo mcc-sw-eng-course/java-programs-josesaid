@@ -1,4 +1,4 @@
-package adcs.tarea06.programming.exercise.tarea06.a01;
+package adcs.tarea06.programming.exercise.tarea06.b02;
 
 import adcs.tarea05.programming.exercise.a01.FilesystemPowerList;
 import org.junit.After;

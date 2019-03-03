@@ -71,7 +71,6 @@ public class FilesystemPowerList extends MyPowerList<String> {
 
     //https://www.geeksforgeeks.org/java-program-for-iterative-merge-sort/
     private void executeMergeSort(Person[] people) {
-        System.out.println("Calling Merge Sort" + counter++);
         if (people == null) {
             return;
         }
@@ -229,4 +228,7 @@ public class FilesystemPowerList extends MyPowerList<String> {
         people[y] = temp;
     }
 
+    public int getTotalRecordsSorted() {
+        return peopleList.size();
+    }
 }
