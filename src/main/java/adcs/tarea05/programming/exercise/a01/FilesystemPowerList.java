@@ -129,7 +129,7 @@ public class FilesystemPowerList extends MyPowerList<String> {
         executeHeapSort(getPeople());
     }
 
-    public void executeHeapSort(Person[] people) {
+    private void executeHeapSort(Person[] people) {
         int n = people.length;
 
         // Build heap (rearrange array)
@@ -151,8 +151,7 @@ public class FilesystemPowerList extends MyPowerList<String> {
 
     // To heapify a subtree rooted with node i which is
     // an index in arr[]. n is size of heap
-    void heapify(Person people[], int n, int i)
-    {
+    private void heapify(Person people[], int n, int i) {
         int largest = i; // Initialize largest as root
         int l = 2*i + 1; // left = 2*i + 1
         int r = 2*i + 2; // right = 2*i + 2
@@ -166,8 +165,7 @@ public class FilesystemPowerList extends MyPowerList<String> {
             largest = r;
 
         // If largest is not root
-        if (largest != i)
-        {
+        if (largest != i) {
             Person swap = people[i];
             people[i] = people[largest];
             people[largest] = swap;
@@ -175,6 +173,60 @@ public class FilesystemPowerList extends MyPowerList<String> {
             // Recursively heapify the affected sub-tree
             heapify(people, n, largest);
         }
+    }
+
+    public void executeQuickSort() {
+        executeQuickSort(getPeople(),0,getPeople().length-1);
+    }
+
+    private void executeQuickSort(Person[] people, int low, int high) {
+        //check for empty or null array
+        if (people == null || people.length == 0){
+            return;
+        }
+
+        if (low >= high){
+            return;
+        }
+
+        //Get the pivot element from the middle of the list
+        int middle = low + (high - low) / 2;
+        Person pivot = people[middle];
+
+        // make left < pivot and right > pivot
+        int i = low, j = high;
+        while (i <= j){
+            //Check until all values on left side array are lower than pivot
+            while (Long.valueOf(people[i].getPhone()) < Long.valueOf(pivot.getPhone())){
+                i++;
+            }
+            //Check until all values on left side array are greater than pivot
+            while (Long.valueOf(people[j].getPhone()) > Long.valueOf(pivot.getPhone())){
+                j--;
+            }
+            //Now compare values from both side of lists to see if they need swapping
+            //After swapping move the iterator on both lists
+            if (i <= j)
+            {
+                swap (people, i, j);
+                i++;
+                j--;
+            }
+        }
+        //Do same operation as above recursively to sort two sub arrays
+        if (low < j){
+            executeQuickSort(people, low, j);
+        }
+        if (high > i){
+            executeQuickSort(people, i, high);
+        }
+        peopleList = Arrays.asList(people);
+    }
+
+    private void swap (Person []people, int x, int y) {
+        Person temp = people[x];
+        people[x] = people[y];
+        people[y] = temp;
     }
 
 }

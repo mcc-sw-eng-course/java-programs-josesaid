@@ -9,10 +9,10 @@ import java.io.FileNotFoundException;
 
 
 /**
- * This class is the  Programming Exercise 28 used to test the
- * Programming Exercise 28
+ * This class is the  Programming Exercise 29 used to test the
+ * Programming Exercise 29
  */
-public class ProgrammingExercise28Test {
+public class ProgrammingExercise29Test {
     private static final String FIVE_RECORDS_FILE = "C:\\temp\\fiveRecords.txt";
     private static final String SMALL_FILE = "C:\\temp\\smallFile.txt";
     private static final String NO_EXISTING_FILE = "C:\\temp\\noExistingFile.txt";
@@ -80,9 +80,9 @@ public class ProgrammingExercise28Test {
     }
 
     @Test
-    public void testExecuteHeapSort() throws Exception {
+    public void testExecuteQuickSort() throws Exception {
         myFilesystemPowerList.setInputData(FIVE_RECORDS_FILE);
-        myFilesystemPowerList.executeHeapSort();
+        myFilesystemPowerList.executeQuickSort();
         myFilesystemPowerList.setOutputData(VALID_FILENAME);
     }
 
