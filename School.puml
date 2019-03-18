@@ -1,0 +1,98 @@
+@startuml
+note left of GradeReport: To generate a grade report, \nthe format can be generated \nwith the student, the section \nand the percentage mark attributes.
+note left of Course: Several sections put together a Section.
+note right of Department: A department is made \nof several courses.
+note left of LetterGrade: Always is required a LetterGrade \nobject to generate a GradeReport.
+note bottom of DegreeProgram: The constants can be represented \nas Enum elements
+
+
+GradeReport "1" -- Student  : have 1 >
+GradeReport "1" -- LetterGrade : have 1 >
+Student "1" -- DegreeProgram : have 1 >
+Student "1" -- Department : have 1 >
+Department "1" o-- "1..*" Course : have 1 >
+Course "1" o-- "1..*" Student : have >
+Course "1" *-- "1..*" Section : have
+Section "1" *-- "1" Instructor : have
+
+class Student {
+-name: String
+-number: int
+-taxFileNumber: int
+-currentAdress: String
+-currentPhone: String
+-permanentAddress: String
+-permanentPhone: int
+-birthday: Date
+-sex: char
+-yearOfStudy: int
+-department: Department
+-degreeProgram: DegreeProgram
++setDepartment(department: Department) : void;
++getDepartment() : Department;
++setDegreeProgram(degreeProgram: DegreeProgram) : void;
++getDegreeProgram() : DegreeProgram;
+-generateTFNNPK(taxFileNumber: int, number: int) : void;
+}
+
+class Department{
+-name: String
+-code: String
+-officeNumber: int
+-officePhone: int
+-faculty: Object
+-courses: List<Course>
+-generatePK(name: String, code: String): void;
++setCourses(courses: List<Course>): void;
++getCourses(): List<Course>;
+}
+
+class Course{
+-name: String
+-description: String
+-number	:int
+-sections: List<Section>
+-students: List<Student>
+-totalSemesterHours: int
+-level: String
++addStudent(student: Student);
++addSection(section : Section);
+#getStudents(): List<Student>;
+#calculateTotalSemesterHours(sections :List<Section>);
++removeStudent(student: Student);
++removeSection(section : Section);
+-generateCourseNumberPK(course: Course): void;
+}
+
+class Section{
+-number: int
+-instructor: Instructor
+-semester: int
+-year: int
++setInstructor(instructor: Instructor);
++getInstructor(): Instructor;
+}
+
+class GradeReport{
+-studentNumber: int
+-sectionNumber: int
+-grade: int
+-percentageMark: int
+-section: Section
+-letterGrade: LetterGrade
++generate(student: Student, section: Section, letterGrade: LetterGrade, percentageMark: int): void;
+}
+
+class Instructor{
+-name: String
+}
+
+enum LetterGrade {
++LetterGrade: [HD, D, C, P]
+}
+
+enum DegreeProgram{
++DegreeProgram: [BA, BSc, PhD]
+}
+
+@enduml
