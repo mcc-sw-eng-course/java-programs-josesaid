@@ -5,7 +5,7 @@
 - Version = 0.8
 - Code Last Update = 03/21/2019
 - Code Last Branch Updated = **ProgrammingExercise31** 
-- Branch with latest code = **ProgrammingExercise31, develop & master **
+- Branch with latest code = **ProgrammingExercise31, develop & master**
 
 ![Hi Welcome!](https://media.licdn.com/dms/image/C5603AQFuzyxDcgtVDA/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=je_7Hee8iktvST7FB1vTbM2yw_manVPspO2Vv1vlFrQ)
 
