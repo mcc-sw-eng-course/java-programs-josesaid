@@ -1,0 +1,6 @@
+*.class
+target/
+.idea/*
+.idea/*.xml
+*.lst
+target/maven-status/*.*
