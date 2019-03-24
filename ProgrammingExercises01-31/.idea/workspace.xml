@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="181ea007-56e4-424e-9999-826b6ea83b12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADCS_Intellij_Idea_Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Results of comparisson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../School.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SchoolDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test Results - All_in_java-programs-josesaid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-programs-josesaid.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/a01/ProgrammingExercise01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/b02/ProgrammingExercise02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/c03/ProgrammingExercise03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/d04/ProgrammingExercise04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/e05/ProgrammingExercise05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/f06/ProgrammingExercise06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/g07/ProgrammingExercise07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/h08/ProgrammingExercise08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea01/programming/exercise/i09/ProgrammingExercise09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/a01/MyPowerList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/a01/ProgrammingExercise10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/b02/ProgrammingExercise11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/c03/ProgrammingExercise12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/d04/ProgrammingExercise13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/e05/ProgrammingExercise14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/f06/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea02/programming/exercise/f06/ProgrammingExercise15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea03/programming/exercise/a01/ProgrammingExercise16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea03/programming/exercise/b02/ProgrammingExercise17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea03/programming/exercise/c03/ProgrammingExercise18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea03/programming/exercise/d04/ProgrammingExercise19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea03/programming/exercise/e05/ProgrammingExercise20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea05/programming/exercise/a01/FilesystemPowerList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea05/programming/exercise/a01/ProgrammingExercise25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea05/programming/exercise/b02/ProgrammingExercise26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea05/programming/exercise/c03/ProgrammingExercise27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea06/programming/exercise/a01/ProgrammingExercise28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea06/programming/exercise/b02/ProgrammingExercise29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea06/programming/exercise/c03/ProgrammingExercise30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/EndMessageConsoleStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/ProgrammingExercise31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/ReadConsoleInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/ReadStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/SetUserInputStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/Strategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/TicTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/ValidationNumberStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/ValidationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/WelcomeMessageConsoleStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/Winner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/WriteConsoleString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/adcs/tarea07/programming/exercise/a01/WriteStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea03/programming/exercise/tarea03/a01/ProgrammingExercise16Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea03/programming/exercise/tarea03/b02/ProgrammingExercise17Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea03/programming/exercise/tarea03/c03/ProgrammingExercise18Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea03/programming/exercise/tarea03/d04/ProgrammingExercise19Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea03/programming/exercise/tarea03/e05/ProgrammingExercise20Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea04/programming/exercise/tarea04/a01/ProgrammingExercise21Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea04/programming/exercise/tarea04/b02/ProgrammingExercise22Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea04/programming/exercise/tarea04/c03/ProgrammingExercise23Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea04/programming/exercise/tarea04/d04/ProgrammingExercise24Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea05/programming/exercise/tarea05/a01/ProgrammingExercise25Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea05/programming/exercise/tarea05/b02/ProgrammingExercise26Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea05/programming/exercise/tarea05/c03/ProgrammingExercise27Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea06/programming/exercise/tarea06/a01/ProgrammingExercise28Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea06/programming/exercise/tarea06/b02/ProgrammingExercise29Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/adcs/tarea06/programming/exercise/tarea06/c03/ProgrammingExercise30Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/a01/ProgrammingExercise01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/b02/ProgrammingExercise02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/c03/ProgrammingExercise03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/d04/ProgrammingExercise04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/e05/ProgrammingExercise05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/f06/ProgrammingExercise06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/g07/ProgrammingExercise07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/h08/ProgrammingExercise08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea01/programming/exercise/i09/ProgrammingExercise09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/a01/ProgrammingExercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/b02/ProgrammingExercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/c03/ProgrammingExercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/d04/ProgrammingExercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/e05/ProgrammingExercise14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea02/programming/exercise/f06/ProgrammingExercise15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea03/programming/exercise/a01/ProgrammingExercise16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea03/programming/exercise/b02/ProgrammingExercise17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea03/programming/exercise/c03/ProgrammingExercise18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea03/programming/exercise/d04/ProgrammingExercise19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/adcs/tarea03/programming/exercise/e05/ProgrammingExercise20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-jar-plugin-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea03.programming.exercise.tarea03.a01.ProgrammingExercise16Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea03.programming.exercise.tarea03.b02.ProgrammingExercise17Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea03.programming.exercise.tarea03.c03.ProgrammingExercise18Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea03.programming.exercise.tarea03.d04.ProgrammingExercise19Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea03.programming.exercise.tarea03.e05.ProgrammingExercise20Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea04.programming.exercise.tarea04.a01.ProgrammingExercise21Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea04.programming.exercise.tarea04.b02.ProgrammingExercise22Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea03.programming.exercise.tarea03.a01.ProgrammingExercise16Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea03.programming.exercise.tarea03.b02.ProgrammingExercise17Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea03.programming.exercise.tarea03.c03.ProgrammingExercise18Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea03.programming.exercise.tarea03.d04.ProgrammingExercise19Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea03.programming.exercise.tarea03.e05.ProgrammingExercise20Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea04.programming.exercise.tarea04.a01.ProgrammingExercise21Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea04.programming.exercise.tarea04.b02.ProgrammingExercise22Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea04.programming.exercise.tarea04.c03.ProgrammingExercise23Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/adcs.tarea04.programming.exercise.tarea04.d04.ProgrammingExercise24Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea03/programming/exercise/tarea03/a01/ProgrammingExercise16Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea03/programming/exercise/tarea03/b02/ProgrammingExercise17Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea03/programming/exercise/tarea03/c03/ProgrammingExercise18Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea03/programming/exercise/tarea03/d04/ProgrammingExercise19Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea04/programming/exercise/tarea04/a01/ProgrammingExercise21Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea04/programming/exercise/tarea04/b02/ProgrammingExercise22Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea04/programming/exercise/tarea04/c03/ProgrammingExercise23Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/adcs/tarea04/programming/exercise/tarea04/d04/ProgrammingExercise24Test.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mavenjarplugin$All_in_java_programs_josesaid.ic" NAME="All in java-programs-josesaid Coverage Results" MODIFIED="1551642524188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkWinner</find>
+      <find>printBoard</find>
+      <find>png</find>
+      <find>jButton1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/b02/ProgrammingExercise29.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/c03/SortMethodsComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/c03/ProgrammingExercise30.java" />
+        <option value="$PROJECT_DIR$/School.puml" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea05/programming/exercise/a01/FilesystemPowerList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/adcs/tarea06/programming/exercise/tarea06/c03/ProgrammingExercise30Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ProgrammingExercise28.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Input.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/InputConsole.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadIntegerOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Winner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WriteStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadConsoleInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ValidationStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ValidationNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ValidationNumberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WelcomeConsoleStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ProgrammingExercise31.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WriteConsoleString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/SetUserInputStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/EndMessageConsoleStrategy.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/server/HiloServidor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/server/Servidor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Dashboard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/servidor/Servidor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/jugador/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-jar-plugin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-jar-plugin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mavenjarplugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingExercises01-31" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main\java\adcs\tarea08\programming\exercise\tictactoe\sockets\jugador" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main\java" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\resources" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\images" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main\java\adcs\tarea08\programming\exercise\tictactoe\sockets\" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main\java\adcs\tarea08\programming\exercise\tictactoe\sockets" />
+      <recent name="C:\MCCRepository\ADCSRepository\java-programs-josesaid\src\main\java\adcs\tarea08\programming\exercise\tictactoe\sockets\server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="adcs.tarea07.programming.exercise.a01" />
+      <recent name="adcs.tarea06.programming.exercise.tarea06.c03" />
+      <recent name="adcs.tarea06.programming.exercise.c03" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="adcs.tarea07.programming.exercise.a01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adcs.tarea08.programming.exercise.tictactoe.sockets.Main" />
+      <module name="java-programs-josesaid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adcs.tarea08.programming.exercise.tictactoe.sockets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adcs.tarea08.programming.exercise.tictactoe.sockets.jugador.Main" />
+      <module name="java-programs-josesaid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adcs.tarea08.programming.exercise.tictactoe.sockets.jugador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adcs.tarea08.programming.exercise.tictactoe.sockets.servidor.Servidor" />
+      <module name="java-programs-josesaid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adcs.tarea08.programming.exercise.tictactoe.sockets.servidor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Servidor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Servidor" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="181ea007-56e4-424e-9999-826b6ea83b12" name="Default Changelist" comment="" />
+      <created>1549945709021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549945709021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProgrammingExercise30Test - 2019.03.03 at 13h 48m 28s.xml">
+      <configuration name="ProgrammingExercise30Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_java-programs-josesaid - 2019.03.03 at 13h 48m 46s.xml">
+      <configuration name="All in java-programs-josesaid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise25Test - 2019.03.03 at 18h 24m 22s.xml">
+      <configuration name="ProgrammingExercise25Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise26Test - 2019.03.03 at 18h 25m 40s.xml">
+      <configuration name="ProgrammingExercise26Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise27Test - 2019.03.03 at 18h 26m 07s.xml">
+      <configuration name="ProgrammingExercise27Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise28Test - 2019.03.03 at 18h 26m 36s.xml">
+      <configuration name="ProgrammingExercise28Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise29Test - 2019.03.03 at 18h 27m 05s.xml">
+      <configuration name="ProgrammingExercise29Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProgrammingExercise30Test - 2019.03.03 at 18h 27m 33s.xml">
+      <configuration name="ProgrammingExercise30Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6195122" visible="true" weight="0.28723404" />
+      <window_info id="Structure" order="1" sideWeight="0.3804878" side_tool="true" weight="0.31534955" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2111293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2405892" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49918166" visible="true" weight="0.15805471" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.5008183" side_tool="true" weight="0.15805471" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.63829786" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.625" visible="true" weight="0.306231" />
+      <window_info id="Structure" order="1" sideWeight="0.37580994" side_tool="true" weight="0.306231" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.2405892" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.43535188" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49918166" weight="0.15805471" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.5008183" side_tool="true" weight="0.15805471" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.63829786" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>board.getMatrix()[numInput-1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea04/programming/exercise/tarea04/c03/ProgrammingExercise23Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea04/programming/exercise/tarea04/d04/ProgrammingExercise24Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Results - All_in_java-programs-josesaid.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea03/programming/exercise/tarea03/e05/ProgrammingExercise20Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/c03/SortMethodsComparator.java" />
+    <entry file="file://$PROJECT_DIR$/Results of comparisson.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/School.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea02/programming/exercise/a01/MyPowerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1559">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea05/programming/exercise/a01/FilesystemPowerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding>
+            <element signature="e#2605#2606#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/a01/ProgrammingExercise28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/b02/ProgrammingExercise29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea05/programming/exercise/tarea05/a01/ProgrammingExercise25Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea05/programming/exercise/tarea05/b02/ProgrammingExercise26Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea05/programming/exercise/tarea05/c03/ProgrammingExercise27Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea06/programming/exercise/tarea06/a01/ProgrammingExercise28Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="34" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea06/programming/exercise/tarea06/b02/ProgrammingExercise29Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/adcs/tarea06/programming/exercise/tarea06/c03/ProgrammingExercise30Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk_11u0.1/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk_11u0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="113" column="31" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk_11u0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1642" column="18" selection-start-line="1642" selection-start-column="18" selection-end-line="1642" selection-end-column="18" />
+          <folding>
+            <element signature="e#56857#56858#0" expanded="true" />
+            <element signature="e#56915#56916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Input.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/InputConsole.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea06/programming/exercise/c03/ProgrammingExercise30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ValidationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Winner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WriteConsoleString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WriteStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/EndMessageConsoleStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/WelcomeMessageConsoleStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ValidationNumberStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ReadConsoleInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/SetUserInputStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/TicTacToe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="59" lean-forward="true" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea07/programming/exercise/a01/ProgrammingExercise31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Main.form" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/server/HiloServidor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/server/Servidor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/player/Dashboard.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/servidor/Servidor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/jugador/Cliente.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/jugador/O.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/adcs/tarea08/programming/exercise/tictactoe/sockets/jugador/Main.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
