@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39b9d81-e430-4b9b-a288-c6122f89b11a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gititgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gititgnore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/player/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/player/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/player/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/player/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe-con-sockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac-toe-con-sockets.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +37,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/.gititgnore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -37,12 +55,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/jugador/Main.java" />
         <option value="$PROJECT_DIR$/src/servidor/HiloServidor.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/player/Cliente.java" />
         <option value="$PROJECT_DIR$/src/player/Main.java" />
+        <option value="$PROJECT_DIR$/src/player/ClientThread.java" />
         <option value="$PROJECT_DIR$/src/server/HiloServidor.java" />
         <option value="$PROJECT_DIR$/src/server/Servidor.java" />
         <option value="$PROJECT_DIR$/.gititgnore" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -75,19 +94,13 @@
             <path>
               <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="player" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="server" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -164,14 +177,14 @@
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24392097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24392097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,83 +235,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/player/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+    <entry file="file://$PROJECT_DIR$/src/player/ClientThread.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/HiloServidor.java">
+    <entry file="file://$PROJECT_DIR$/src/player/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="161" column="4" selection-start-line="161" selection-start-column="4" selection-end-line="161" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#8841#8842#0" expanded="true" />
+            <element signature="e#8907#8908#0" expanded="true" />
+            <element signature="e#9013#9014#0" expanded="true" />
+            <element signature="e#9079#9080#0" expanded="true" />
+            <element signature="e#9185#9186#0" expanded="true" />
+            <element signature="e#9251#9252#0" expanded="true" />
+            <element signature="e#9506#9507#0" expanded="true" />
+            <element signature="e#9572#9573#0" expanded="true" />
+            <element signature="e#9678#9679#0" expanded="true" />
+            <element signature="e#9744#9745#0" expanded="true" />
+            <element signature="e#9850#9851#0" expanded="true" />
+            <element signature="e#9916#9917#0" expanded="true" />
+            <element signature="e#10022#10023#0" expanded="true" />
+            <element signature="e#10088#10089#0" expanded="true" />
+            <element signature="e#10194#10195#0" expanded="true" />
+            <element signature="e#10224#10225#0" expanded="true" />
+            <element signature="e#10366#10367#0" expanded="true" />
+            <element signature="e#10432#10433#0" expanded="true" />
+            <element signature="e#12681#12682#0" expanded="true" />
+            <element signature="e#12711#12712#0" expanded="true" />
+            <element signature="e#12727#12728#0" expanded="true" />
+            <element signature="e#12775#12776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/player/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/server/Servidor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        <state relative-caret-position="223">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#429#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/player/ClientThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/player/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/server/HiloServidor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
+        <state relative-caret-position="937">
+          <caret line="101" column="31" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
           <folding>
-            <element signature="e#1681#1682#0" expanded="true" />
-            <element signature="e#1736#1737#0" expanded="true" />
-            <element signature="e#2031#2032#0" expanded="true" />
-            <element signature="e#2086#2087#0" expanded="true" />
-            <element signature="e#2241#2242#0" expanded="true" />
-            <element signature="e#2296#2297#0" expanded="true" />
-            <element signature="e#2451#2452#0" expanded="true" />
-            <element signature="e#2506#2507#0" expanded="true" />
-            <element signature="e#2661#2662#0" expanded="true" />
-            <element signature="e#2716#2717#0" expanded="true" />
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2926#2927#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-            <element signature="e#3136#3137#0" expanded="true" />
-            <element signature="e#3291#3292#0" expanded="true" />
-            <element signature="e#3346#3347#0" expanded="true" />
-            <element signature="e#3501#3502#0" expanded="true" />
-            <element signature="e#3556#3557#0" expanded="true" />
-            <element signature="e#3711#3712#0" expanded="true" />
-            <element signature="e#3766#3767#0" expanded="true" />
-            <element signature="e#4043#4044#0" expanded="true" />
-            <element signature="e#4103#4104#0" expanded="true" />
-            <element signature="e#11930#11931#0" expanded="true" />
-            <element signature="e#11997#11998#0" expanded="true" />
-            <element signature="e#12570#12571#0" expanded="true" />
-            <element signature="e#12613#12614#0" expanded="true" />
-            <element signature="e#12655#12656#0" expanded="true" />
-            <element signature="e#12685#12686#0" expanded="true" />
-            <element signature="e#12846#12847#0" expanded="true" />
-            <element signature="e#12887#12888#0" expanded="true" />
+            <element signature="e#636#644#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gititgnore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>

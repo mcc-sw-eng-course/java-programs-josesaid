@@ -4,26 +4,24 @@ import javax.swing.JButton;
 
 public class Main extends javax.swing.JFrame {
 
-    private Cliente cliente;
-    private JButton[][] botones = new JButton[3][3];
-    /*
-    Constructor donde generamos una matriz de botones, que represneta el tablero del juego
-    */
+    private ClientThread clientThread;
+    private JButton[][] buttons = new JButton[3][3];
+
     public Main() {
         try {
             initComponents();
-            botones[0][0] = M11;
-            botones[0][1] = M12;
-            botones[0][2] = M13;
-            botones[1][0] = M21;
-            botones[1][1] = M22;
-            botones[1][2] = M23;
-            botones[2][0] = M31;
-            botones[2][1] = M32;
-            botones[2][2] = M33;
+            buttons[0][0] = M11;
+            buttons[0][1] = M12;
+            buttons[0][2] = M13;
+            buttons[1][0] = M21;
+            buttons[1][1] = M22;
+            buttons[1][2] = M23;
+            buttons[2][0] = M31;
+            buttons[2][1] = M32;
+            buttons[2][2] = M33;
             
-            cliente= new Cliente(this);
-            Thread hilo = new Thread(cliente);
+            clientThread = new ClientThread(this);
+            Thread hilo = new Thread(clientThread);
             hilo.start();
         } catch (Exception ex) {
             ex.printStackTrace();
@@ -173,54 +171,53 @@ public class Main extends javax.swing.JFrame {
                     .addComponent(lbTurno))
                 .addGap(24, 24, 24))
         );
-
         pack();
+
     }
 
-    private void M11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M11ActionPerformed
-        enviarTurno(0, 0);
-    }//GEN-LAST:event_M11ActionPerformed
+    private void M11ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(0, 0);
+    }
 
-    private void M13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M13ActionPerformed
-        enviarTurno(0, 2);
-    }//GEN-LAST:event_M13ActionPerformed
+    private void M13ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(0, 2);
+    }
 
-    private void M12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M12ActionPerformed
-        enviarTurno(0, 1);
-    }//GEN-LAST:event_M12ActionPerformed
+    private void M12ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(0, 1);
+    }
 
-    private void M14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M14ActionPerformed
+    private void M14ActionPerformed(java.awt.event.ActionEvent evt) {
+    }
 
-    }//GEN-LAST:event_M14ActionPerformed
+    private void M21ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(1, 0);
+    }
 
-    private void M21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M21ActionPerformed
-        enviarTurno(1, 0);
-    }//GEN-LAST:event_M21ActionPerformed
+    private void M22ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(1, 1);
+    }
 
-    private void M22ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M22ActionPerformed
-        enviarTurno(1, 1);
-    }//GEN-LAST:event_M22ActionPerformed
+    private void M23ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(1, 2);
+    }
 
-    private void M23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M23ActionPerformed
-        enviarTurno(1, 2);
-    }//GEN-LAST:event_M23ActionPerformed
+    private void M31ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(2, 0);
+    }
 
-    private void M31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M31ActionPerformed
-        enviarTurno(2, 0);
-    }//GEN-LAST:event_M31ActionPerformed
+    private void M32ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(2, 1);
+    }
 
-    private void M32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M32ActionPerformed
-        enviarTurno(2, 1);
-    }//GEN-LAST:event_M32ActionPerformed
+    private void M33ActionPerformed(java.awt.event.ActionEvent evt) {
+        sendTurn(2, 2);
+    }
 
-    private void M33ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_M33ActionPerformed
-        enviarTurno(2, 2);
-    }//GEN-LAST:event_M33ActionPerformed
-
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
         new Main().setVisible(true);
         this.dispose();
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }
 
     public static void main(String args[]) {
         for(int i=0;i<2;i++){
@@ -263,17 +260,16 @@ public class Main extends javax.swing.JFrame {
     private javax.swing.JButton jButton7;
     private javax.swing.JLabel lbTurno;
     
-    public void cambioTexto(String cad){
+    public void changeText(String cad){
         lbTurno.setText(cad);       
     }
     
-    public JButton[][] getBotones(){
-        return botones;
+    public JButton[][] getButtons(){
+        return buttons;
     }
-    
-    //Cuando se presiona un boton enviamos los datos de la jugada al server (fila y columna del boton precionado)
-    public void enviarTurno(int f,int c){
-        cliente.enviarTurno(f, c);
+
+    public void sendTurn(int row, int column){
+        clientThread.sendTurn(row, column);
     }
 
     
