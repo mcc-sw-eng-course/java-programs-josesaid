@@ -1,7 +1,1 @@
-*.class
-target/
-.idea/*
-.idea/*.xml
-*.lst
-target/maven-status/*.*
-Tic-Tac-Toe-con-sockets/.idea/
+.idea/
