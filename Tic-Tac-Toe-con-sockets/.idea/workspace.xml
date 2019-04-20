@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e39b9d81-e430-4b9b-a288-c6122f89b11a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gititgnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gititgnore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tac-toe-con-sockets/player/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/player/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/player/ClientThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/player/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/player/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe-con-sockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac-toe-con-sockets.iml" afterDir="false" />
-    </list>
+    <list default="true" id="e39b9d81-e430-4b9b-a288-c6122f89b11a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gititgnore">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,33 +58,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Tic-Tac-Toe-con-sockets" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="tic-tac-toe-con-sockets" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -175,9 +130,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24392097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24772036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -235,7 +189,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/player/ClientThread.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
